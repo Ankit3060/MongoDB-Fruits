@@ -1,0 +1,16 @@
+{
+  "name": "fruitsprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hmr": "nodemon server.js",
+    "nodemon": "npm run hmr"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
